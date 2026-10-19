@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "afjnetwork.aternos.me",
-    "port": 42241,
+    "ip": "knight181005-wbYE.aternos.me:17033",
+    "port": 17033,
     "version": "1.20.1",
     "try-creative": false
   },
